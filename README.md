@@ -336,5 +336,5 @@ if __name__ == "__main__":
 | [`patch_typora_1.14.9.py`](patch_typora_1.14.9.py) | 补丁脚本（含备份、校验、中止保护） |
 | [`Typora.patched`](Typora.patched) | 已补丁的完整二进制副本（3328240 字节，4 处字节已生效） |
 | [`实验复核文档.md`](实验复核文档.md) | 本复核文档 |
-| `/tmp/Typora.bak` | 原始二进制备份（在系统临时目录） |
+| `Typora.raw` | 原始二进制备份 |
 
